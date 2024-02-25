@@ -8,18 +8,18 @@
 
 # Identitas
 
-Nama : Andre Eka
-Email : andreekapradana@gmail.com
+- Andre Eka
+- andreekapradana@gmail.com
 
 ## Jawaban
 
-untuk cek jawaban saya tinggal search
+untuk cek jawaban tinggal search
 
-1bag2 untuk jawaban soal 1 bagian 2
-1bag3 untuk jawaban soal 1 bagian 3
-2bag1 untuk jawaban soal 2 bagian 1
-2bag2 untuk jawaban soal 2 bagian 2
-2bag3 untuk jawaban soal 2 bagian 3
+- 1bag2 untuk jawaban soal 1 bagian 2
+- 1bag3 untuk jawaban soal 1 bagian 3
+- 2bag1 untuk jawaban soal 2 bagian 1
+- 2bag2 untuk jawaban soal 2 bagian 2
+- 2bag3 untuk jawaban soal 2 bagian 3
 
 ## Tugas 1
 
